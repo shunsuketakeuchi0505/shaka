@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>竹内俊介のホームページ</title>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+  <table width="800" align="center" border="0">
+    <tr>
+      <td>
+        <h1>竹内俊介のホームページ</h1>
+        <hr>
+        <p>ようこそ、私のホームページへ！</p>
+        <p>このページでは、私のプロフィールや興味のあることを紹介します。</p>
+        <hr>
+
+        <h2>プロフィール</h2>
+        <ul>
+          <li>名前：竹内俊介</li>
+          <li>出身：〇〇県</li>
+          <li>趣味：読書、映画鑑賞、旅行</li>
+        </ul>
+
+        <p>更新日：2025年4月6日</p>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
